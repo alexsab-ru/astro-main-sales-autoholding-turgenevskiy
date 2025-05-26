@@ -54,6 +54,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://sales-autoholding-turgenevskiy.alexsab.ru',
+	site: 'https://sales-autoholding-turgenevskiy.ru',
 	base: "/"
 });
