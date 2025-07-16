@@ -1500,7 +1500,7 @@
     <Image url="https://s1.maxposter.ru/photo/11233/7273964/orig/919651d9b376a92c6d29d0740c93ad7f.jpg?sid=14" />
   </Images>
 <max_discount>210000</max_discount><priceWithDiscount>2141748</priceWithDiscount><sale_price>2141748</sale_price><url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-лс-style-белый-2025/</url></Ad>
-<Ad>
+	<Ad>
   <Id>7239612152</Id>
   <AdStatus>Free</AdStatus>
   <ListingFee>Package</ListingFee>
@@ -1940,7 +1940,7 @@
   </Images>
   <VideoFileURL>https://disk.yandex.ru/i/3TJyyJVSGjjsZg</VideoFileURL>
 <max_discount>840000</max_discount><priceWithDiscount>2609000</priceWithDiscount><sale_price>2609000</sale_price><url>https://sales-autoholding-turgenevskiy.ru/cars/soueast-s07-16t-4wd-at-186-лс-premium-белый-2024/</url></Ad>
-<Ad>
+	<Ad>
   <Id>4267495272</Id>
   <AdStatus>Free</AdStatus>
   <ListingFee>Package</ListingFee>
@@ -4648,7 +4648,7 @@
     <Image url="https://s1.maxposter.ru/photo/11236/7291534/orig/156f90015f55d395b0c6c29fcc98ab05.jpg?sid=14&amp;12dec0fd633fd0001fa9650a87dc4d2a" />
   </Images>
 <max_discount>900000</max_discount><priceWithDiscount>2079900</priceWithDiscount><sale_price>2079900</sale_price><url>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-лс-luxury-зелёный-2024/</url></Ad>
-<Ad>
+	<Ad>
   <Id>4569730555</Id>
   <AdStatus>Free</AdStatus>
   <ListingFee>Package</ListingFee>
@@ -5348,7 +5348,7 @@
     <Image url="https://s1.maxposter.ru/photo/11256/7153535/orig/7d8c611db2847bc14f137550e4a22c84.jpg?sid=14" />
   </Images>
 <max_discount>450000</max_discount><priceWithDiscount>2000000</priceWithDiscount><sale_price>2000000</sale_price><url>https://sales-autoholding-turgenevskiy.ru/cars/dongfeng-dfsk-ix5-15-cvt-137-лс-premium-белый-2024/</url></Ad>
-<Ad>
+	<Ad>
   <Id>9951769</Id>
   <AdStatus>Free</AdStatus>
   <ListingFee>Package</ListingFee>
@@ -5492,7 +5492,7 @@
     <Image url="https://s1.maxposter.ru/photo/11238/7292357/orig/5002007fb515713c0634f123b57d2e5b.jpg?sid=14" />
   </Images>
 <max_discount>0</max_discount><priceWithDiscount>3025000</priceWithDiscount><sale_price>3025000</sale_price><url>https://sales-autoholding-turgenevskiy.ru/cars/baic-bj40-20-d-4wd-at-163-лс-exclusive-красный-2024/</url></Ad>
-<Ad>
+	<Ad>
   <Id>7153538</Id>
   <AdStatus>Free</AdStatus>
   <AvitoId>4429013593</AvitoId>
@@ -5657,4 +5657,4 @@
     <Image url="https://s1.maxposter.ru/photo/11239/7153542/orig/b971da8cdcafab05baed30d5b87ff99a.jpg?sid=14&amp;74d51a4f414a5bf064e1331a84619288" />
   </Images>
 <max_discount>270000</max_discount><priceWithDiscount>1400000</priceWithDiscount><sale_price>1400000</sale_price><url>https://sales-autoholding-turgenevskiy.ru/cars/kaiyi-e5-15-i-t-cvt-147-лс-luxury-белый-2023/</url></Ad>
-</Ads>
+	</Ads>
