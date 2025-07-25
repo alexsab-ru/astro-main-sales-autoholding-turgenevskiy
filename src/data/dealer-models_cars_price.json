@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "BAIC",
+    "model": "BJ40",
+    "price": 3025000,
+    "benefit": 0
+  },
+  {
+    "brand": "BAIC",
+    "model": "X75",
+    "price": 2300000,
+    "benefit": 648200
+  },
+  {
+    "brand": "Dongfeng",
+    "model": "DFSK iX5",
+    "price": 2000000,
+    "benefit": 450000
+  },
+  {
+    "brand": "Forthing",
+    "model": "Yacht",
+    "price": 2600000,
+    "benefit": 800000
+  },
+  {
+    "brand": "Jetour",
+    "model": "Dashing",
+    "price": 1889900,
+    "benefit": 1180000
+  },
+  {
+    "brand": "Jetour",
+    "model": "T2",
+    "price": 3321912,
+    "benefit": 927088
+  },
+  {
+    "brand": "Jetour",
+    "model": "X50",
+    "price": 1940000,
+    "benefit": 550000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X70",
+    "price": 2388000,
+    "benefit": 261000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X70 PLUS",
+    "price": 1999900,
+    "benefit": 1000000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X90 PLUS",
+    "price": 2579900,
+    "benefit": 0
+  },
+  {
+    "brand": "Kaiyi",
+    "model": "E5",
+    "price": 1400000,
+    "benefit": 270000
+  },
+  {
+    "brand": "Kaiyi",
+    "model": "X7 Kunlun",
+    "price": 2250000,
+    "benefit": 0
+  },
+  {
+    "brand": "Solaris",
+    "model": "HC",
+    "price": 2548000,
+    "benefit": 210000
+  },
+  {
+    "brand": "Solaris",
+    "model": "HS",
+    "price": 1940000,
+    "benefit": 210000
+  },
+  {
+    "brand": "Solaris",
+    "model": "KRS",
+    "price": 1900688,
+    "benefit": 210000
+  },
+  {
+    "brand": "Solaris",
+    "model": "KRX",
+    "price": 1750000,
+    "benefit": 210000
+  },
+  {
+    "brand": "Soueast",
+    "model": "S07",
+    "price": 2259000,
+    "benefit": 840000
+  },
+  {
+    "brand": "Soueast",
+    "model": "S09",
+    "price": 2449000,
+    "benefit": 1270000
+  },
+  {
+    "brand": "Venucia",
+    "model": "D60 Plus",
+    "price": 1600000,
+    "benefit": 0
+  },
+  {
+    "brand": "Venucia",
+    "model": "V-Online",
+    "price": 2300000,
+    "benefit": 0
+  }
+]
