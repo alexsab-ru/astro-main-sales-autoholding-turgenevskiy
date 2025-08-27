@@ -26,14 +26,14 @@
   {
     "brand": "Jetour",
     "model": "Dashing",
-    "price": 1971140,
-    "benefit": 1230000
+    "price": 1889900,
+    "benefit": 1180000
   },
   {
     "brand": "Jetour",
     "model": "T2",
-    "price": 3249000,
-    "benefit": 1000000
+    "price": 3215908,
+    "benefit": 1033092
   },
   {
     "brand": "Jetour",
@@ -43,15 +43,9 @@
   },
   {
     "brand": "Jetour",
-    "model": "X70",
-    "price": 2228000,
-    "benefit": 421000
-  },
-  {
-    "brand": "Jetour",
     "model": "X70 PLUS",
-    "price": 1999900,
-    "benefit": 1000000
+    "price": 2199900,
+    "benefit": 1100000
   },
   {
     "brand": "Jetour",
@@ -67,8 +61,8 @@
   },
   {
     "brand": "Kaiyi",
-    "model": "X7 Kunlun",
-    "price": 2250000,
+    "model": "X3",
+    "price": 2156534,
     "benefit": 0
   },
   {
@@ -99,7 +93,7 @@
     "brand": "Soueast",
     "model": "S09",
     "price": 2449000,
-    "benefit": 1460000
+    "benefit": 1450000
   },
   {
     "brand": "Venucia",
