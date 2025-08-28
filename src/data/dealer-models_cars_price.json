@@ -68,8 +68,14 @@
   {
     "brand": "Solaris",
     "model": "HC",
-    "price": 2648082,
-    "benefit": 210000
+    "price": 2488495,
+    "benefit": 273043
+  },
+  {
+    "brand": "Solaris",
+    "model": "HS",
+    "price": 2124604,
+    "benefit": 100396
   },
   {
     "brand": "Solaris",
@@ -81,7 +87,7 @@
     "brand": "Solaris",
     "model": "KRX",
     "price": 1750000,
-    "benefit": 210000
+    "benefit": 278023
   },
   {
     "brand": "Soueast",
