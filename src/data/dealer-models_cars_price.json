@@ -26,20 +26,26 @@
   {
     "brand": "Jetour",
     "model": "Dashing",
-    "price": 1906692,
-    "benefit": 1280000
+    "price": 1979900,
+    "benefit": 1180000
   },
   {
     "brand": "Jetour",
     "model": "T2",
-    "price": 2579900,
-    "benefit": 1050000
+    "price": 3469000,
+    "benefit": 780000
   },
   {
     "brand": "Jetour",
     "model": "X70 PLUS",
-    "price": 1979900,
-    "benefit": 1000000
+    "price": 2239900,
+    "benefit": 860000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X90 PLUS",
+    "price": 2579900,
+    "benefit": 0
   },
   {
     "brand": "Kaiyi",
