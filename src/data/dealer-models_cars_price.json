@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "brand": "BAIC",
+    "model": "BJ40",
+    "price": 3025000,
+    "benefit": 0
+  },
+  {
+    "brand": "BAIC",
+    "model": "X75",
+    "price": 2300000,
+    "benefit": 648200
+  },
+  {
+    "brand": "Dongfeng",
+    "model": "DFSK iX5",
+    "price": 2000000,
+    "benefit": 450000
+  },
+  {
+    "brand": "Forthing",
+    "model": "Yacht",
+    "price": 2600000,
+    "benefit": 800000
+  },
+  {
+    "brand": "Jetour",
+    "model": "Dashing",
+    "price": 2009900,
+    "benefit": 1180000
+  },
+  {
+    "brand": "Jetour",
+    "model": "T1",
+    "price": 3370000,
+    "benefit": 400000
+  },
+  {
+    "brand": "Jetour",
+    "model": "T2",
+    "price": 3469000,
+    "benefit": 780000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X70 PLUS",
+    "price": 2539900,
+    "benefit": 760000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X90 PLUS",
+    "price": 2579900,
+    "benefit": 0
+  },
+  {
+    "brand": "Kaiyi",
+    "model": "X3",
+    "price": 2156534,
+    "benefit": 0
+  },
+  {
+    "brand": "Solaris",
+    "model": "HC",
+    "price": 1749000,
+    "benefit": 280000
+  },
+  {
+    "brand": "Solaris",
+    "model": "HS",
+    "price": 2124604,
+    "benefit": 100396
+  },
+  {
+    "brand": "Solaris",
+    "model": "KRS",
+    "price": 2185000,
+    "benefit": 213252
+  },
+  {
+    "brand": "Solaris",
+    "model": "KRX",
+    "price": 1750000,
+    "benefit": 247903
+  },
+  {
+    "brand": "Soueast",
+    "model": "S07",
+    "price": 2609000,
+    "benefit": 840000
+  },
+  {
+    "brand": "Soueast",
+    "model": "S09",
+    "price": 2369000,
+    "benefit": 1530000
+  },
+  {
+    "brand": "Venucia",
+    "model": "D60 Plus",
+    "price": 1600000,
+    "benefit": 0
+  },
+  {
+    "brand": "Venucia",
+    "model": "V-Online",
+    "price": 2300000,
+    "benefit": 0
+  }
+]
