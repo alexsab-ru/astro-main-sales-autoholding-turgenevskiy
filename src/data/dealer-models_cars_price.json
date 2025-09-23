@@ -19,7 +19,7 @@
   },
   {
     "brand": "Forthing",
-    "model": "Yacht",
+    "model": "YACHT",
     "price": 2600000,
     "benefit": 800000
   },
@@ -43,13 +43,13 @@
   },
   {
     "brand": "Jetour",
-    "model": "X70 PLUS",
+    "model": "X70 Plus",
     "price": 2539900,
     "benefit": 760000
   },
   {
     "brand": "Jetour",
-    "model": "X90 PLUS",
+    "model": "X90 Plus",
     "price": 2579900,
     "benefit": 0
   },
