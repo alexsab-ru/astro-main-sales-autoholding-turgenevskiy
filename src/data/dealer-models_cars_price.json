@@ -31,6 +31,12 @@
   },
   {
     "brand": "Jetour",
+    "model": "T1",
+    "price": 3370000,
+    "benefit": 400000
+  },
+  {
+    "brand": "Jetour",
     "model": "T2",
     "price": 3499000,
     "benefit": 730000
@@ -56,8 +62,8 @@
   {
     "brand": "Solaris",
     "model": "HC",
-    "price": 1786000,
-    "benefit": 273043
+    "price": 1838000,
+    "benefit": 191000
   },
   {
     "brand": "Solaris",
@@ -68,14 +74,14 @@
   {
     "brand": "Solaris",
     "model": "KRS",
-    "price": 2062000,
-    "benefit": 243000
+    "price": 2114000,
+    "benefit": 191000
   },
   {
     "brand": "Solaris",
     "model": "KRX",
     "price": 1750000,
-    "benefit": 243000
+    "benefit": 210000
   },
   {
     "brand": "Soueast",
