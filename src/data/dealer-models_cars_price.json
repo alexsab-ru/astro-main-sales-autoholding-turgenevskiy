@@ -37,12 +37,6 @@
   },
   {
     "brand": "Jetour",
-    "model": "T2",
-    "price": 3639000,
-    "benefit": 320000
-  },
-  {
-    "brand": "Jetour",
     "model": "X70 Plus",
     "price": 2779900,
     "benefit": 520000
@@ -62,7 +56,7 @@
   {
     "brand": "Solaris",
     "model": "HC",
-    "price": 2267000,
+    "price": 2537000,
     "benefit": 191000
   },
   {
@@ -86,8 +80,8 @@
   {
     "brand": "Soueast",
     "model": "S09",
-    "price": 3399000,
-    "benefit": 700000
+    "price": 3699000,
+    "benefit": 400000
   },
   {
     "brand": "Venucia",
