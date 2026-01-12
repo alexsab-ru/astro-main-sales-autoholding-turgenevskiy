@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "brand": "Baic",
+    "model": "BJ40",
+    "price": 3025000,
+    "benefit": 0
+  },
+  {
+    "brand": "Baic",
+    "model": "X75",
+    "price": 2300000,
+    "benefit": 648200
+  },
+  {
+    "brand": "Dongfeng",
+    "model": "DFSK iX5",
+    "price": 2000000,
+    "benefit": 450000
+  },
+  {
+    "brand": "Forthing",
+    "model": "YACHT",
+    "price": 2600000,
+    "benefit": 800000
+  },
+  {
+    "brand": "Jetour",
+    "model": "Dashing",
+    "price": 2339900,
+    "benefit": 500000
+  },
+  {
+    "brand": "Jetour",
+    "model": "T1",
+    "price": 3270000,
+    "benefit": 520000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X70 Plus",
+    "price": 2444900,
+    "benefit": 555000
+  },
+  {
+    "brand": "Solaris",
+    "model": "HC",
+    "price": 2329333,
+    "benefit": 1073334
+  },
+  {
+    "brand": "Solaris",
+    "model": "KRS",
+    "price": 2371500,
+    "benefit": 139500
+  },
+  {
+    "brand": "Solaris",
+    "model": "KRX",
+    "price": 2481000,
+    "benefit": 0
+  },
+  {
+    "brand": "Soueast",
+    "model": "S07",
+    "price": 3049000,
+    "benefit": 400000
+  },
+  {
+    "brand": "Soueast",
+    "model": "S09",
+    "price": 3539000,
+    "benefit": 560000
+  },
+  {
+    "brand": "Venucia",
+    "model": "V-Online",
+    "price": 2300000,
+    "benefit": 0
+  }
+]
