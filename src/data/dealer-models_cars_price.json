@@ -26,8 +26,20 @@
   {
     "brand": "Jetour",
     "model": "Dashing",
-    "price": 2259900,
+    "price": 2159900,
     "benefit": 600000
+  },
+  {
+    "brand": "Jetour",
+    "model": "T1",
+    "price": 4099900,
+    "benefit": 100000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X70 Plus",
+    "price": 2889900,
+    "benefit": 410000
   },
   {
     "brand": "Solaris",
@@ -38,14 +50,14 @@
   {
     "brand": "Solaris",
     "model": "KRS",
-    "price": 2335000,
-    "benefit": 110000
+    "price": 2320245,
+    "benefit": 124755
   },
   {
     "brand": "Solaris",
     "model": "KRX",
-    "price": 2383333,
-    "benefit": 151667
+    "price": 2283333,
+    "benefit": 251667
   },
   {
     "brand": "Venucia",
