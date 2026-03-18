@@ -1,33 +1,27 @@
 [
   {
-    "brand": "Baic",
-    "model": "BJ40",
-    "price": 3025000,
-    "benefit": 0
-  },
-  {
-    "brand": "Baic",
-    "model": "X75",
-    "price": 2300000,
-    "benefit": 648200
-  },
-  {
     "brand": "Dongfeng",
     "model": "DFSK iX5",
     "price": 2000000,
     "benefit": 450000
   },
   {
-    "brand": "Forthing",
-    "model": "YACHT",
-    "price": 2600000,
-    "benefit": 800000
-  },
-  {
     "brand": "Jetour",
     "model": "Dashing",
     "price": 2159900,
     "benefit": 600000
+  },
+  {
+    "brand": "Jetour",
+    "model": "T1",
+    "price": 4099900,
+    "benefit": 100000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X70+",
+    "price": 2889900,
+    "benefit": 410000
   },
   {
     "brand": "Solaris",
