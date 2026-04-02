@@ -19,39 +19,33 @@
   },
   {
     "brand": "Jetour",
-    "model": "T2",
-    "price": 4309000,
-    "benefit": 340000
-  },
-  {
-    "brand": "Jetour",
     "model": "X70+",
-    "price": 2899000,
-    "benefit": 500000
+    "price": 2849000,
+    "benefit": 550000
   },
   {
     "brand": "Solaris",
     "model": "HC",
-    "price": 2184000,
-    "benefit": 246000
+    "price": 2580000,
+    "benefit": 310000
   },
   {
     "brand": "Solaris",
     "model": "KRS",
-    "price": 2199000,
-    "benefit": 246000
+    "price": 2235000,
+    "benefit": 210000
   },
   {
     "brand": "Solaris",
     "model": "KRX",
-    "price": 2189000,
-    "benefit": 346000
+    "price": 2225000,
+    "benefit": 310000
   },
   {
     "brand": "Soueast",
     "model": "S07",
-    "price": 3049000,
-    "benefit": 350000
+    "price": 2949000,
+    "benefit": 450000
   },
   {
     "brand": "Venucia",
