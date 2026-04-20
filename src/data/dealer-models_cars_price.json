@@ -6,54 +6,6 @@
     "benefit": 450000
   },
   {
-    "brand": "Jetour",
-    "model": "Dashing",
-    "price": 2009900,
-    "benefit": 750000
-  },
-  {
-    "brand": "Jetour",
-    "model": "T1",
-    "price": 3999900,
-    "benefit": 200000
-  },
-  {
-    "brand": "Jetour",
-    "model": "X70+",
-    "price": 2739900,
-    "benefit": 560000
-  },
-  {
-    "brand": "Solaris",
-    "model": "HC",
-    "price": 2515000,
-    "benefit": 310000
-  },
-  {
-    "brand": "Solaris",
-    "model": "KRS",
-    "price": 2235000,
-    "benefit": 210000
-  },
-  {
-    "brand": "Solaris",
-    "model": "KRX",
-    "price": 2225000,
-    "benefit": 310000
-  },
-  {
-    "brand": "Soueast",
-    "model": "S06",
-    "price": 2649000,
-    "benefit": 450000
-  },
-  {
-    "brand": "Soueast",
-    "model": "S07",
-    "price": 2949000,
-    "benefit": 450000
-  },
-  {
     "brand": "Venucia",
     "model": "V-Online",
     "price": 2300000,
