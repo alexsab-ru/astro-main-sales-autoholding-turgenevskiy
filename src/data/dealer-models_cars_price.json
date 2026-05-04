@@ -6,6 +6,12 @@
     "benefit": 450000
   },
   {
+    "brand": "Jetour",
+    "model": "T1",
+    "price": 4140000,
+    "benefit": 0
+  },
+  {
     "brand": "Solaris",
     "model": "HC",
     "price": 2794250,
