@@ -7,14 +7,50 @@
   },
   {
     "brand": "Jetour",
+    "model": "Dashing",
+    "price": 2240000,
+    "benefit": 0
+  },
+  {
+    "brand": "Jetour",
     "model": "T1",
     "price": 4140000,
+    "benefit": 0
+  },
+  {
+    "brand": "Jetour",
+    "model": "X70+",
+    "price": 2834000,
     "benefit": 0
   },
   {
     "brand": "Solaris",
     "model": "HC",
     "price": 2794250,
+    "benefit": 0
+  },
+  {
+    "brand": "Solaris",
+    "model": "KRS",
+    "price": 2424950,
+    "benefit": 0
+  },
+  {
+    "brand": "Solaris",
+    "model": "KRX",
+    "price": 1750000,
+    "benefit": 210000
+  },
+  {
+    "brand": "Soueast",
+    "model": "S06",
+    "price": 2540000,
+    "benefit": 0
+  },
+  {
+    "brand": "Soueast",
+    "model": "S07",
+    "price": 3080000,
     "benefit": 0
   },
   {
