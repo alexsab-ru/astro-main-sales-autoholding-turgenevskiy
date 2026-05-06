@@ -1,7 +1,7 @@
 [
   {
     "brand": "Dongfeng",
-    "model": "DFSK iX5",
+    "model": "ДФСК их5 (DFSK iX5)",
     "price": 2000000,
     "benefit": 450000
   },
@@ -25,37 +25,37 @@
   },
   {
     "brand": "Solaris",
-    "model": "HC",
-    "price": 2515000,
+    "model": "Кей-Эр-Икс (KRX)",
+    "price": 1750000,
     "benefit": 260000
   },
   {
     "brand": "Solaris",
-    "model": "KRS",
+    "model": "Кей-Эр-Эс (KRS)",
     "price": 2235000,
     "benefit": 210000
   },
   {
     "brand": "Solaris",
-    "model": "KRX",
-    "price": 1750000,
+    "model": "Эйч-Си (HC)",
+    "price": 2515000,
     "benefit": 260000
   },
   {
     "brand": "Soueast",
-    "model": "S06",
+    "model": "Эс-06 (S06)",
     "price": 2999000,
     "benefit": 100000
   },
   {
     "brand": "Soueast",
-    "model": "S07",
+    "model": "Эс-07 (S07)",
     "price": 2999000,
     "benefit": 400000
   },
   {
     "brand": "Venucia",
-    "model": "V-Online",
+    "model": "Ви-Онлайн (V-Online)",
     "price": 2300000,
     "benefit": 0
   }
