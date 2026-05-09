@@ -42,6 +42,18 @@
     "benefit": 260000
   },
   {
+    "brand": "Soueast",
+    "model": "Эс-06 (S06)",
+    "price": 2999000,
+    "benefit": 100000
+  },
+  {
+    "brand": "Soueast",
+    "model": "Эс-07 (S07)",
+    "price": 2999000,
+    "benefit": 400000
+  },
+  {
     "brand": "Venucia",
     "model": "Ви-Онлайн (V-Online)",
     "price": 2300000,
