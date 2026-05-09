@@ -1,11 +1,5 @@
 [
   {
-    "brand": "Dongfeng",
-    "model": "ДФСК их5 (DFSK iX5)",
-    "price": 2000000,
-    "benefit": 450000
-  },
-  {
     "brand": "Jetour",
     "model": "Dashing",
     "price": 2159900,
@@ -52,11 +46,5 @@
     "model": "Эс-07 (S07)",
     "price": 2999000,
     "benefit": 400000
-  },
-  {
-    "brand": "Venucia",
-    "model": "Ви-Онлайн (V-Online)",
-    "price": 2300000,
-    "benefit": 0
   }
 ]
