@@ -231,7 +231,7 @@ collect_brand_paths_from_settings() {
     brand_domain="${normalized_brand}.alexsab.ru"
     BRANDS+=("$raw_brand")
     BRAND_DOMAINS+=("$brand_domain")
-    BRAND_SPARSE_PATHS+=("src/$brand_domain")
+    BRAND_SPARSE_PATHS+=("/src/$brand_domain")
   done <<< "$brands_raw"
 }
 
@@ -384,12 +384,12 @@ else
 fi
 
 SPARSE_PATHS=(
-  "src/$DOMAIN" \
-  "src/cars.json" \
-  "src/avito-colors.json" \
-  "src/settings-common.json" \
-  "src/translations.json" \
-  "$ASTRO_JSON_DATA_PATH"
+  "/src/$DOMAIN" \
+  "/src/cars.json" \
+  "/src/avito-colors.json" \
+  "/src/settings-common.json" \
+  "/src/translations.json" \
+  "/$ASTRO_JSON_DATA_PATH"
 )
 
 if [ ${#BRAND_SPARSE_PATHS[@]} -gt 0 ]; then
