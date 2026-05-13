@@ -1112,7 +1112,7 @@ def update_car_prices(car_data: dict, prices_data: Dict[str, Dict[str, int]], ov
     final_price = car_prices["Конечная цена"]
     if override_price or final_price <= current_sale_price:
         discount = car_prices["Скидка"]
-        rrp = car_prices["РРЦ"]
+        rrp = car_prices["РРЦ"] or final_price + discount
         # Обновляем значения в словаре car_data
         car_data['priceWithDiscount'] = final_price
         car_data['sale_price'] = final_price
