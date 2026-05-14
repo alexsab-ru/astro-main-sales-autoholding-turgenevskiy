@@ -1075,6 +1075,13 @@ def load_price_data(file_path: str = "./src/data/site/dealer-cars_price.json") -
         return {}
 
 
+def _parse_price_int(value, default: int = 0) -> int:
+    try:
+        return int(str(value or default).replace(" ", "").replace("\u00a0", ""))
+    except (TypeError, ValueError):
+        return default
+
+
 def update_car_prices(car_data: dict, prices_data: Dict[str, Dict[str, int]], override_price: bool = False) -> None:
     """
     Обновляет цены в словаре данных автомобиля (car_data).
@@ -1109,10 +1116,10 @@ def update_car_prices(car_data: dict, prices_data: Dict[str, Dict[str, int]], ov
         print(f"Отсутствуют необходимые ключи в данных о ценах для VIN: {vin}")
         return
 
-    final_price = car_prices["Конечная цена"]
+    final_price = _parse_price_int(car_prices["Конечная цена"])
     if override_price or final_price <= current_sale_price:
-        discount = car_prices["Скидка"]
-        rrp = car_prices["РРЦ"] or final_price + discount
+        discount = _parse_price_int(car_prices["Скидка"])
+        rrp = _parse_price_int(car_prices["РРЦ"], final_price + discount)
         # Обновляем значения в словаре car_data
         car_data['priceWithDiscount'] = final_price
         car_data['sale_price'] = final_price
