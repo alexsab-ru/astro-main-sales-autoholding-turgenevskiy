@@ -152,7 +152,7 @@
     <model>Dashing</model>
     <year>2026</year>
     <title>Jetour Dashing Комфорт 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008700/0/full.webp?v=c00fda20e8ea</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008700/0/full.webp?v=0e6e044dc211</image_link>
     <price>2759900 RUB</price>
     <sale_price>2209900 RUB</sale_price>
     <min_price>2209900 RUB</min_price>
@@ -272,7 +272,7 @@
     <model>Dashing</model>
     <year>2026</year>
     <title>Jetour Dashing Комфорт 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011534/0/full.webp?v=b0793926f4d5</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011534/0/full.webp?v=d2ffec81272f</image_link>
     <price>2759900 RUB</price>
     <sale_price>2209900 RUB</sale_price>
     <min_price>2209900 RUB</min_price>
@@ -512,7 +512,7 @@
     <model>T1</model>
     <year>2026</year>
     <title>Jetour T1 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B5TDB77929/0/full.webp?v=c419b553b280</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B5TDB77929/0/full.webp?v=710120e2be9b</image_link>
     <price>4199900 RUB</price>
     <sale_price>3924900 RUB</sale_price>
     <min_price>3924900 RUB</min_price>
@@ -550,6 +550,1186 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LVTDD24B7TDB86700</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C241BBSR270969</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-brown-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Стиль 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR270969/0/full.webp?v=62f389fd9bfd</image_link>
+    <price>2635000 RUB</price>
+    <sale_price>2125000 RUB</sale_price>
+    <min_price>2125000 RUB</min_price>
+    <max_price>2635000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Коричневый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C241BBSR270969</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C241BBSR273470</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Стиль 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR273470/0/full.webp?v=97967436a672</image_link>
+    <price>2635000 RUB</price>
+    <sale_price>2125000 RUB</sale_price>
+    <min_price>2125000 RUB</min_price>
+    <max_price>2635000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C241BBSR273470</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C241BBSR274322</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-luxury-av-black-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Люкс АВ 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274322/0/full.webp?v=ce53351008c9</image_link>
+    <price>2560000 RUB</price>
+    <sale_price>2050000 RUB</sale_price>
+    <min_price>2050000 RUB</min_price>
+    <max_price>2560000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Люкс АВ, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C241BBSR274322</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C241BBSR274861</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Стиль 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274861/0/full.webp?v=71d26cbaeaff</image_link>
+    <price>2635000 RUB</price>
+    <sale_price>2125000 RUB</sale_price>
+    <min_price>2125000 RUB</min_price>
+    <max_price>2635000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C241BBSR274861</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C241BBSR275280</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-silver-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Стиль 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275280/0/full.webp?v=a333df48fd7b</image_link>
+    <price>2635000 RUB</price>
+    <sale_price>2125000 RUB</sale_price>
+    <min_price>2125000 RUB</min_price>
+    <max_price>2635000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C241BBSR275280</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C241BBSR275289</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-comfort-silver-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Комфорт 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275289/0/full.webp?v=f2cd7debd446</image_link>
+    <price>2445000 RUB</price>
+    <sale_price>2235000 RUB</sale_price>
+    <min_price>2235000 RUB</min_price>
+    <max_price>2445000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Комфорт, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C241BBSR275289</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C241BBSR275300</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-comfort-gray-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Комфорт 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275300/0/full.webp?v=d7018532be78</image_link>
+    <price>2445000 RUB</price>
+    <sale_price>1935000 RUB</sale_price>
+    <min_price>1935000 RUB</min_price>
+    <max_price>2445000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Комфорт, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C241BBSR275300</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C241BBSR275678</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-silver-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Стиль 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275678/0/full.webp?v=2b7f76527f7d</image_link>
+    <price>2635000 RUB</price>
+    <sale_price>2125000 RUB</sale_price>
+    <min_price>2125000 RUB</min_price>
+    <max_price>2635000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C241BBSR275678</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C241BBSR275837</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Стиль 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275837/0/full.webp?v=87eea7c08617</image_link>
+    <price>2635000 RUB</price>
+    <sale_price>2125000 RUB</sale_price>
+    <min_price>2125000 RUB</min_price>
+    <max_price>2635000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C241BBSR275837</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C241BBSR275838</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Стиль 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275838/0/full.webp?v=679c8292e1f3</image_link>
+    <price>2635000 RUB</price>
+    <sale_price>2125000 RUB</sale_price>
+    <min_price>2125000 RUB</min_price>
+    <max_price>2635000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C241BBSR275838</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C241BBSR275839</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Стиль 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/0/full.webp?v=bfc06dca0dae</image_link>
+    <price>2635000 RUB</price>
+    <sale_price>2125000 RUB</sale_price>
+    <min_price>2125000 RUB</min_price>
+    <max_price>2635000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C241BBSR275839</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C251BBSR188858</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-comfort-silver-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Комфорт 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR188858/0/full.webp?v=ee6924cc6789</image_link>
+    <price>2535000 RUB</price>
+    <sale_price>2065000 RUB</sale_price>
+    <min_price>2065000 RUB</min_price>
+    <max_price>2535000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C251BBSR188858</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C251BBSR194468</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-luxe-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Luxe 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR194468/0/full.webp?v=c3f9e678f698</image_link>
+    <price>2725000 RUB</price>
+    <sale_price>2255000 RUB</sale_price>
+    <min_price>2255000 RUB</min_price>
+    <max_price>2725000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C251BBSR194468</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C251BBSR194478</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-luxe-silver-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Luxe 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR194478/0/full.webp?v=3205d06ec544</image_link>
+    <price>2725000 RUB</price>
+    <sale_price>2255000 RUB</sale_price>
+    <min_price>2255000 RUB</min_price>
+    <max_price>2725000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C251BBSR194478</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C251BBSR196352</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-luxe-silver-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Luxe 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196352/0/full.webp?v=857413cf0213</image_link>
+    <price>2650000 RUB</price>
+    <sale_price>2180000 RUB</sale_price>
+    <min_price>2180000 RUB</min_price>
+    <max_price>2650000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C251BBSR196352</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C251BBSR196353</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-luxe-silver-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Luxe 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196353/0/full.webp?v=d5c296f08978</image_link>
+    <price>2650000 RUB</price>
+    <sale_price>2180000 RUB</sale_price>
+    <min_price>2180000 RUB</min_price>
+    <max_price>2650000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C251BBSR196353</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C251BBSR196510</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-comfort-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Комфорт 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196510/0/full.webp?v=d70544d324d7</image_link>
+    <price>2535000 RUB</price>
+    <sale_price>2065000 RUB</sale_price>
+    <min_price>2065000 RUB</min_price>
+    <max_price>2535000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C251BBSR196510</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C251BBSR196530</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-comfort-blue-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Комфорт 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196530/0/full.webp?v=a16cc07c7995</image_link>
+    <price>2535000 RUB</price>
+    <sale_price>2065000 RUB</sale_price>
+    <min_price>2065000 RUB</min_price>
+    <max_price>2535000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Синий</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C251BBSR196530</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C251BBSR196539</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-comfort-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Комфорт 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196539/0/full.webp?v=777936cd9a06</image_link>
+    <price>2535000 RUB</price>
+    <sale_price>2065000 RUB</sale_price>
+    <min_price>2065000 RUB</min_price>
+    <max_price>2535000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C251BBSR196539</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C251BBSR198534</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-luxe-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Luxe 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR198534/0/full.webp?v=0909cc60f928</image_link>
+    <price>2725000 RUB</price>
+    <sale_price>2205000 RUB</sale_price>
+    <min_price>2205000 RUB</min_price>
+    <max_price>2725000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C251BBSR198534</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C251BBSR199110</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-comfort-black-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Комфорт 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR199110/0/full.webp?v=39dd937b405e</image_link>
+    <price>2535000 RUB</price>
+    <sale_price>2065000 RUB</sale_price>
+    <min_price>2065000 RUB</min_price>
+    <max_price>2535000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C251BBSR199110</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C341BBSR275769</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-premium-blue-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Премиум 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275769/0/full.webp?v=db25859a2a6c</image_link>
+    <price>2870000 RUB</price>
+    <sale_price>2360000 RUB</sale_price>
+    <min_price>2360000 RUB</min_price>
+    <max_price>2870000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Премиум, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Синий</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C341BBSR275769</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C341BBSR275829</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-premium-red-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Премиум 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275829/0/full.webp?v=ab1a1636b781</image_link>
+    <price>2870000 RUB</price>
+    <sale_price>2360000 RUB</sale_price>
+    <min_price>2360000 RUB</min_price>
+    <max_price>2870000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Премиум, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Красный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C341BBSR275829</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C341BBSR275849</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-premium-gray-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRS</model>
+    <year>2025</year>
+    <title>Solaris KRS Премиум 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275849/0/full.webp?v=4cf870bf0428</image_link>
+    <price>2870000 RUB</price>
+    <sale_price>2360000 RUB</sale_price>
+    <min_price>2360000 RUB</min_price>
+    <max_price>2870000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRS, Премиум, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>Z94C341BBSR275849</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C351BBSR194434</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-premium-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Премиум 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194434/0/full.webp?v=30c8234b3513</image_link>
+    <price>2960000 RUB</price>
+    <sale_price>2490000 RUB</sale_price>
+    <min_price>2490000 RUB</min_price>
+    <max_price>2960000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C351BBSR194434</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C351BBSR194435</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-premium-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Премиум 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194435/0/full.webp?v=e80cb2daa31f</image_link>
+    <price>2960000 RUB</price>
+    <sale_price>2490000 RUB</sale_price>
+    <min_price>2490000 RUB</min_price>
+    <max_price>2960000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C351BBSR194435</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C351BBSR194436</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-premium-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Премиум 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194436/0/full.webp?v=3b917e8fa676</image_link>
+    <price>2960000 RUB</price>
+    <sale_price>2490000 RUB</sale_price>
+    <min_price>2490000 RUB</min_price>
+    <max_price>2960000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C351BBSR194436</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C351BBSR194493</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-premium-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Премиум 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194493/0/full.webp?v=e8e9f8a9d094</image_link>
+    <price>2960000 RUB</price>
+    <sale_price>2490000 RUB</sale_price>
+    <min_price>2490000 RUB</min_price>
+    <max_price>2960000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C351BBSR194493</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C351BBSR194494</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-premium-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Премиум 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194494/0/full.webp?v=47c57bc064be</image_link>
+    <price>2960000 RUB</price>
+    <sale_price>2490000 RUB</sale_price>
+    <min_price>2490000 RUB</min_price>
+    <max_price>2960000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C351BBSR194494</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C351BBSR195187</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-prestige-gray-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Престиж 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR195187/0/full.webp?v=61b8f2b93bfe</image_link>
+    <price>2815000 RUB</price>
+    <sale_price>2345000 RUB</sale_price>
+    <min_price>2345000 RUB</min_price>
+    <max_price>2815000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Престиж, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C351BBSR195187</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C351BBSR195211</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-prestige-gray-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Престиж 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR195211/0/full.webp?v=7c3c7894afef</image_link>
+    <price>2815000 RUB</price>
+    <sale_price>2345000 RUB</sale_price>
+    <min_price>2345000 RUB</min_price>
+    <max_price>2815000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Престиж, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C351BBSR195211</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C351BBSR196368</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-prestige-gray-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Престиж 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR196368/0/full.webp?v=bcb89c576aed</image_link>
+    <price>2815000 RUB</price>
+    <sale_price>2345000 RUB</sale_price>
+    <min_price>2345000 RUB</min_price>
+    <max_price>2815000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Престиж, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C351BBSR196368</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C351BBSR196369</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-prestige-gray-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Престиж 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR196369/0/full.webp?v=483ee97927b8</image_link>
+    <price>2815000 RUB</price>
+    <sale_price>2345000 RUB</sale_price>
+    <min_price>2345000 RUB</min_price>
+    <max_price>2815000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Престиж, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C351BBSR196369</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94C351BBSR197775</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-premium-brown-2025/</link>
+    <brand>Solaris</brand>
+    <model>KRX</model>
+    <year>2025</year>
+    <title>Solaris KRX Премиум 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR197775/0/full.webp?v=59b3e0f75073</image_link>
+    <price>2960000 RUB</price>
+    <sale_price>2490000 RUB</sale_price>
+    <min_price>2490000 RUB</min_price>
+    <max_price>2960000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Коричневый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Z94C351BBSR197775</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PB814BSR066381</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-16-at-123-hp-classic-gray-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Классик 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PB814BSR066381/0/full.webp?v=c198307142c2</image_link>
+    <price>2795000 RUB</price>
+    <sale_price>2475000 RUB</sale_price>
+    <min_price>2475000 RUB</min_price>
+    <max_price>2795000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Классик, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PB814BSR066381</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PB814BSR068563</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-16-at-123-hp-classic-pluswinter-black-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Classic+Winter 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PB814BSR068563/0/full.webp?v=4757da77d48b</image_link>
+    <price>2865000 RUB</price>
+    <sale_price>2545000 RUB</sale_price>
+    <min_price>2545000 RUB</min_price>
+    <max_price>2865000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Classic+Winter, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PB814BSR068563</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PC815BSR072295</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-at-150-hp-lifestyle--plus-winter-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Lifestyle + Winter 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815BSR072295/0/full.webp?v=bfe85092693f</image_link>
+    <price>3360000 RUB</price>
+    <sale_price>3040000 RUB</sale_price>
+    <min_price>3040000 RUB</min_price>
+    <max_price>3360000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Lifestyle + Winter, 2.0 AT (150 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PC815BSR072295</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PC815DSR056149</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-4wd-at-150-hp-lifestyle-black-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Лайфстайл 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR056149/0/full.webp?v=947d6e0d9ea1</image_link>
+    <price>3425000 RUB</price>
+    <sale_price>3055000 RUB</sale_price>
+    <min_price>3055000 RUB</min_price>
+    <max_price>3425000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Лайфстайл, 2.0 4WD AT (150 л.с.), 2025 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PC815DSR056149</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PC815DSR061125</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-4wd-at-150-hp-lifestyle--plus-winter-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Lifestyle + Winter 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR061125/0/full.webp?v=f9f9dafe5d33</image_link>
+    <price>3575000 RUB</price>
+    <sale_price>3205000 RUB</sale_price>
+    <min_price>3205000 RUB</min_price>
+    <max_price>3575000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Lifestyle + Winter, 2.0 4WD AT (150 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PC815DSR061125</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PC815DSR064702</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-4wd-at-150-hp-lifestyle--plus-winter-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Lifestyle + Winter 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR064702/0/full.webp?v=f1d236022ee7</image_link>
+    <price>3495000 RUB</price>
+    <sale_price>3125000 RUB</sale_price>
+    <min_price>3125000 RUB</min_price>
+    <max_price>3495000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Lifestyle + Winter, 2.0 4WD AT (150 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PC815DSR064702</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PC815DSR066835</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-4wd-at-150-hp-lifestyle--plus-winter-blue-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Lifestyle + Winter 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR066835/0/full.webp?v=8af20e6fd40e</image_link>
+    <price>3495000 RUB</price>
+    <sale_price>3175000 RUB</sale_price>
+    <min_price>3175000 RUB</min_price>
+    <max_price>3495000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Lifestyle + Winter, 2.0 4WD AT (150 л.с.), 2025 г.</description>
+    <exterior_color>Синий</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PC815DSR066835</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PC815DSR068734</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-4wd-at-150-hp-lifestyle--plus-premium-music--plus-winter--plus-advanced-beige-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Lifestyle + Premium Music + Winter + Advanced 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR068734/0/full.webp?v=c94f22463cc3</image_link>
+    <price>3640000 RUB</price>
+    <sale_price>3640000 RUB</sale_price>
+    <min_price>3640000 RUB</min_price>
+    <max_price>3640000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Lifestyle + Premium Music + Winter + Advanced, 2.0 4WD AT (150 л.с.), 2025 г.</description>
+    <exterior_color>Бежевый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PC815DSR068734</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PC815DSR071099</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-4wd-at-150-hp-lifestyle-black-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Лайфстайл 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR071099/1/full.webp?v=77a2b4e521c6</image_link>
+    <price>3425000 RUB</price>
+    <sale_price>3105000 RUB</sale_price>
+    <min_price>3105000 RUB</min_price>
+    <max_price>3425000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Лайфстайл, 2.0 4WD AT (150 л.с.), 2025 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PC815DSR071099</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PF814BSR054997</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-16-at-123-hp-family-plusultra-silver-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Family+Ultra 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR054997/0/full.webp?v=8f9f5c18a330</image_link>
+    <price>2960000 RUB</price>
+    <sale_price>2714000 RUB</sale_price>
+    <min_price>2714000 RUB</min_price>
+    <max_price>2960000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Family+Ultra, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PF814BSR054997</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PF814BSR055158</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-16-at-123-hp-family-plusultra-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Family+Ultra 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR055158/0/full.webp?v=4ca6ec30e7f7</image_link>
+    <price>3040000 RUB</price>
+    <sale_price>2720000 RUB</sale_price>
+    <min_price>2720000 RUB</min_price>
+    <max_price>3040000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Family+Ultra, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PF814BSR055158</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PF814BSR066985</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-16-at-123-hp-family-plusultra-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Family+Ultra 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR066985/0/full.webp?v=9046aed199f0</image_link>
+    <price>3040000 RUB</price>
+    <sale_price>2830000 RUB</sale_price>
+    <min_price>2830000 RUB</min_price>
+    <max_price>3040000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Family+Ultra, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PF814BSR066985</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PF814BSR070368</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-16-at-123-hp-family-plusultra-white-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Family+Ultra 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR070368/0/full.webp?v=4c8dae6d460c</image_link>
+    <price>3040000 RUB</price>
+    <sale_price>2830000 RUB</sale_price>
+    <min_price>2830000 RUB</min_price>
+    <max_price>3040000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Family+Ultra, 1.6 AT (123 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PF814BSR070368</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PF815BSR065756</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-at-150-hp-family--plus-ultra-black-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Family + Ultra 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR065756/0/full.webp?v=5e619c11f826</image_link>
+    <price>3175000 RUB</price>
+    <sale_price>2855000 RUB</sale_price>
+    <min_price>2855000 RUB</min_price>
+    <max_price>3175000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Family + Ultra, 2.0 AT (150 л.с.), 2025 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PF815BSR065756</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PF815BSR067889</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-at-150-hp-family-black-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Фэмили 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR067889/0/full.webp?v=4cd2771352ba</image_link>
+    <price>3105000 RUB</price>
+    <sale_price>2785000 RUB</sale_price>
+    <min_price>2785000 RUB</min_price>
+    <max_price>3105000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Фэмили, 2.0 AT (150 л.с.), 2025 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PF815BSR067889</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Z94PF815BSR067962</id>
+    <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-at-150-hp-family--plus-ultra-gray-2025/</link>
+    <brand>Solaris</brand>
+    <model>HC</model>
+    <year>2025</year>
+    <title>Solaris HC Family + Ultra 2025</title>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR067962/0/full.webp?v=94c253475000</image_link>
+    <price>3175000 RUB</price>
+    <sale_price>2965000 RUB</sale_price>
+    <min_price>2965000 RUB</min_price>
+    <max_price>3175000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Solaris HC, Family + Ultra, 2.0 AT (150 л.с.), 2025 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Z94PF815BSR067962</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
