@@ -18,7 +18,7 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Jetour X70 Plus, Comfort, 1.6T DCT (190 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37CUSMXSC003645/0/full.webp?v=0a24d37390e5</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37CUSMXSC003645/0/full.webp?v=76070e4aee88</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37CUSMXSC003645/1/full.webp?v=001a0748274b</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37CUSMXSC003645/2/full.webp?v=f0a1fc828208</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37CUSMXSC003645/3/full.webp?v=038723406735</image>
@@ -41,7 +41,7 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Jetour X70 Plus, Престиж, 1.6T DCT (190 л.с.), 2025 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSM2SC003428/0/full.webp?v=a77263f6512b</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSM2SC003428/0/full.webp?v=0065bdeb453f</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSM2SC003428/1/full.webp?v=32abf1fa56e3</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSM2SC003428/2/full.webp?v=4b5274e2b259</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSM2SC003428/3/full.webp?v=8319b8edd378</image>
@@ -69,7 +69,7 @@
       <images>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC003872/0/full.webp?v=8acf884df821</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC003872/1/full.webp?v=a3aa1c5048d3</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC003872/2/full.webp?v=c51a48e93ab6</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC003872/2/full.webp?v=73b72de469e3</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC003872/3/full.webp?v=207c55aecfab</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC003872/4/full.webp?v=e1dd01d22839</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC003872/5/full.webp?v=5da875c1758a</image>
@@ -99,6 +99,7 @@
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC004102/3/full.webp?v=b189a8c6255c</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC004102/4/full.webp?v=a75ab6a70ca6</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC004102/5/full.webp?v=c97d7d9b3354</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC004102/6/full.webp?v=e8364ecbbe89</image>
       </images>
     </car>
     <car>
@@ -118,7 +119,7 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Jetour Dashing, Комфорт, 1.5 DCT (147 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFD9SC008803/0/full.webp?v=901f29bede3a</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFD9SC008803/0/full.webp?v=0cf3f32fee88</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFD9SC008803/1/full.webp?v=614ec24228b0</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFD9SC008803/2/full.webp?v=1671d26a45ab</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFD9SC008803/3/full.webp?v=56466281f601</image>
@@ -144,7 +145,7 @@
       <images>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008664/0/full.webp?v=0fea27500faa</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008664/1/full.webp?v=9d9a99704393</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008664/2/full.webp?v=94a95a9a70b8</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008664/2/full.webp?v=6da8b2c3c59b</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008664/3/full.webp?v=9b5620c1b54a</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008664/4/full.webp?v=1984527c675b</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008664/5/full.webp?v=dc4bbd714f2c</image>
@@ -174,6 +175,7 @@
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008700/2/full.webp?v=062ccfe5cc18</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008700/3/full.webp?v=486901490a7b</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008700/4/full.webp?v=8723428882cb</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008700/5/full.webp?v=bbb9f9d3d067</image>
       </images>
     </car>
     <car>
@@ -202,6 +204,7 @@
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008714/6/full.webp?v=70064d9c8d64</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008714/7/full.webp?v=99a77af50b2e</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008714/8/full.webp?v=7918256359a1</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008714/9/full.webp?v=d097d2ae56a9</image>
       </images>
     </car>
     <car>
@@ -221,7 +224,7 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Jetour Dashing, Комфорт, 1.5 DCT (147 л.с.), 2026 г., зеленый</description>
       <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008731/0/full.webp?v=a7da648cf4b1</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008731/0/full.webp?v=9c5eb2ba189b</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008731/1/full.webp?v=a53859bc3c25</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008731/2/full.webp?v=e3d8abbf0460</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008731/3/full.webp?v=7498496f8e97</image>
@@ -252,6 +255,7 @@
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011100/2/full.webp?v=6c3a5bbc584f</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011100/3/full.webp?v=ec1aa542b51d</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011100/4/full.webp?v=e76a2cbf81d4</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011100/5/full.webp?v=73daa71cb19a</image>
       </images>
     </car>
     <car>
@@ -271,7 +275,7 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Jetour Dashing, Комфорт, 1.5 DCT (147 л.с.), 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011128/0/full.webp?v=8abdbda10ff0</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011128/0/full.webp?v=1a1a774ee2bb</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011128/1/full.webp?v=027a4145f2e0</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011128/2/full.webp?v=159f074dd530</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011128/3/full.webp?v=4ac165c0bffb</image>
@@ -297,7 +301,7 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Jetour Dashing, Комфорт, 1.5 DCT (147 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011534/0/full.webp?v=b0793926f4d5</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011534/0/full.webp?v=d2ffec81272f</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011534/1/full.webp?v=e0fccadb2d9c</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011534/2/full.webp?v=7a5784bf0dea</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011534/3/full.webp?v=2dd6a2065dcc</image>
@@ -323,7 +327,7 @@
       <images>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004086/0/full.webp?v=e1433a66ccb4</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004086/1/full.webp?v=14b60986e729</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004086/2/full.webp?v=8386bc97c23b</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004086/2/full.webp?v=aa548dfe841e</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004086/3/full.webp?v=06c13210646e</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004086/4/full.webp?v=bfadbeaa42fa</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004086/5/full.webp?v=08c3c83a17c9</image>
@@ -350,7 +354,7 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Jetour Dashing, Люкс, 1.5 DCT (147 л.с.), 2025 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004671/0/full.webp?v=59a55ce7487f</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004671/0/full.webp?v=6b33bf39bc0e</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004671/1/full.webp?v=005743dfcf66</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004671/2/full.webp?v=d0b8b35615e2</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004671/3/full.webp?v=d9b7b77fbe6c</image>
@@ -386,6 +390,7 @@
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC005920/6/full.webp?v=553ab639b33d</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC005920/7/full.webp?v=f3abdbb600b0</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC005920/8/full.webp?v=269f307819d2</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC005920/9/full.webp?v=9cb449266663</image>
       </images>
     </car>
     <car>
@@ -416,6 +421,7 @@
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFDXSC006004/8/full.webp?v=4b958310e75b</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFDXSC006004/9/full.webp?v=3d192f8e2592</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFDXSC006004/10/full.webp?v=0702f2d74784</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFDXSC006004/11/full.webp?v=29099bf325e4</image>
       </images>
     </car>
     <car>
@@ -439,6 +445,7 @@
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFDXSC007301/1/full.webp?v=1f95168b8ab2</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFDXSC007301/2/full.webp?v=c47ef18eaffa</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFDXSC007301/3/full.webp?v=cbc2248ed913</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFDXSC007301/4/full.webp?v=77135a5e841e</image>
       </images>
     </car>
     <car>
@@ -466,6 +473,7 @@
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DLUFDXTC012697/5/full.webp?v=f4d8a3a900df</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DLUFDXTC012697/6/full.webp?v=219f97aff9c3</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DLUFDXTC012697/7/full.webp?v=de5dded04b22</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DLUFDXTC012697/8/full.webp?v=996669ffecdc</image>
       </images>
     </car>
     <car>
@@ -493,6 +501,7 @@
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B1TDB97904/5/full.webp?v=8549a4c20d25</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B1TDB97904/6/full.webp?v=a105b8d8cac7</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B1TDB97904/7/full.webp?v=7d69e4224aec</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B1TDB97904/8/full.webp?v=d35e40b07b4b</image>
       </images>
     </car>
     <car>
@@ -514,7 +523,7 @@
       <images>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB70050/0/full.webp?v=bb2fc73058b9</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB70050/1/full.webp?v=aac051aece8c</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB70050/2/full.webp?v=ccb05d699219</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB70050/2/full.webp?v=fa5764040ba5</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB70050/3/full.webp?v=4155383034eb</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB70050/4/full.webp?v=d7ef96216d68</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB70050/5/full.webp?v=97006413028a</image>
@@ -546,6 +555,7 @@
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB77998/6/full.webp?v=d67048191985</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB77998/7/full.webp?v=15ecc1286b1f</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB77998/8/full.webp?v=df3b62bc6a1e</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB77998/9/full.webp?v=db41c905000e</image>
       </images>
     </car>
     <car>
@@ -566,7 +576,7 @@
       <description>Автомобиль Jetour T1, Премиум, 2.0 4WD AT (245 л.с.), 2026 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B5TDB77929/0/full.webp?v=710120e2be9b</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B5TDB77929/1/full.webp?v=ec6a29921896</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B5TDB77929/1/full.webp?v=603389726017</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B5TDB77929/2/full.webp?v=70bba8e697f9</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B5TDB77929/3/full.webp?v=dabeef47770d</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B5TDB77929/4/full.webp?v=5a502f18f7d7</image>
@@ -591,7 +601,7 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Jetour T1, Премиум, 2.0 4WD AT (245 л.с.), 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B7TDB86700/0/full.webp?v=d59f2d647830</image>
+        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B7TDB86700/0/full.webp?v=42976bec84e9</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B7TDB86700/1/full.webp?v=1975fd95a655</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B7TDB86700/2/full.webp?v=64fd9d1b8454</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B7TDB86700/3/full.webp?v=1a26b5b5ce14</image>
@@ -599,1152 +609,6 @@
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B7TDB86700/5/full.webp?v=95b0f6e24875</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B7TDB86700/6/full.webp?v=c77c5fc9ee57</image>
         <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B7TDB86700/7/full.webp?v=88fe5e9c58fa</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C241BBSR270969</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-brown-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C241BBSR270969</vin>
-      <price>2635000</price>
-      <sale_price>2125000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>коричневый</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г., коричневый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR270969/0/full.webp?v=62f389fd9bfd</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR270969/1/full.webp?v=ee4706bdc9bb</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR270969/2/full.webp?v=f7fe6ed6a14e</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR270969/3/full.webp?v=4cac149f2f5e</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR270969/4/full.webp?v=df91da9b5ed2</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR270969/5/full.webp?v=0b71cd0bbc1c</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR270969/6/full.webp?v=55cd26b83e1d</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C241BBSR273470</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C241BBSR273470</vin>
-      <price>2635000</price>
-      <sale_price>2125000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR273470/0/full.webp?v=81c75b2ec786</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR273470/1/full.webp?v=a571f129bb7e</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR273470/2/full.webp?v=5d006ce0c08b</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR273470/3/full.webp?v=282357ecb98b</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR273470/4/full.webp?v=abb4a751d8c6</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR273470/5/full.webp?v=93fbf01b409b</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR273470/6/full.webp?v=25b3d60c4a74</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C241BBSR274322</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-luxury-av-black-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C241BBSR274322</vin>
-      <price>2560000</price>
-      <sale_price>2050000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Люкс АВ, 1.6 AT (123 л.с.), 2025 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274322/0/full.webp?v=ce53351008c9</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274322/1/full.webp?v=85618592a43c</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274322/2/full.webp?v=df2883702288</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274322/3/full.webp?v=5143a0315df5</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274322/4/full.webp?v=fa0272057742</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C241BBSR274861</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C241BBSR274861</vin>
-      <price>2635000</price>
-      <sale_price>2125000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274861/0/full.webp?v=1d1aa80c6558</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274861/1/full.webp?v=69b97bfb51f9</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274861/2/full.webp?v=8bb88b016363</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274861/3/full.webp?v=2530ea84f62e</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274861/4/full.webp?v=4c39bc986e64</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274861/5/full.webp?v=a10653a913bc</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C241BBSR275280</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-silver-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C241BBSR275280</vin>
-      <price>2635000</price>
-      <sale_price>2125000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>серебряный</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275280/0/full.webp?v=a333df48fd7b</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275280/1/full.webp?v=c909842e6cf3</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275280/2/full.webp?v=8ed7af736149</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275280/3/full.webp?v=df477e57bf58</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275280/4/full.webp?v=dcef71037379</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275280/5/full.webp?v=a64074ba1929</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C241BBSR275289</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-comfort-silver-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C241BBSR275289</vin>
-      <price>2445000</price>
-      <sale_price>2235000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>210000</max_benefit>
-      <color>серебряный</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Комфорт, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275289/0/full.webp?v=4bb02068686b</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275289/1/full.webp?v=bdfa95626c23</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275289/2/full.webp?v=9468d40db7e0</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275289/3/full.webp?v=67d1542c0d93</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275289/4/full.webp?v=faa842f7ad04</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275289/5/full.webp?v=97382c8015a1</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C241BBSR275300</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-comfort-gray-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C241BBSR275300</vin>
-      <price>2445000</price>
-      <sale_price>1935000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Комфорт, 1.6 AT (123 л.с.), 2025 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275300/0/full.webp?v=e7ec707744f1</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275300/1/full.webp?v=87921be54326</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275300/2/full.webp?v=e09d36398aaa</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275300/3/full.webp?v=a5ce45c9f572</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275300/4/full.webp?v=e668137a8eb1</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275300/5/full.webp?v=9567356ecfe4</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275300/6/full.webp?v=4f6118605958</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C241BBSR275678</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-silver-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C241BBSR275678</vin>
-      <price>2635000</price>
-      <sale_price>2125000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>серебряный</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275678/0/full.webp?v=2b7f76527f7d</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275678/1/full.webp?v=d8047c0b92bc</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275678/2/full.webp?v=f69adef35253</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275678/3/full.webp?v=0d76c2be9111</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275678/4/full.webp?v=5c859f0f36d0</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C241BBSR275837</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C241BBSR275837</vin>
-      <price>2635000</price>
-      <sale_price>2125000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275837/0/full.webp?v=1b507359214f</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275837/1/full.webp?v=821c0f80ac1f</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275837/2/full.webp?v=ab86690c2964</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275837/3/full.webp?v=1d26e285bf9a</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275837/4/full.webp?v=696dffebf07c</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275837/5/full.webp?v=e69df9e38432</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275837/6/full.webp?v=52fa8c1d7de9</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275837/7/full.webp?v=6ccef000f1b9</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275837/8/full.webp?v=2bff44ccd058</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C241BBSR275838</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C241BBSR275838</vin>
-      <price>2635000</price>
-      <sale_price>2125000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275838/0/full.webp?v=679c8292e1f3</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275838/1/full.webp?v=076ce4ab4a81</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275838/2/full.webp?v=dbe396fd0dc6</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275838/3/full.webp?v=1b9199cdc33e</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275838/4/full.webp?v=07e7acfd273d</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275838/5/full.webp?v=a87ac9830efe</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275838/6/full.webp?v=fb837ff51fc4</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275838/7/full.webp?v=9e3b2a556a22</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275838/8/full.webp?v=cf4b6e976f25</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C241BBSR275839</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C241BBSR275839</vin>
-      <price>2635000</price>
-      <sale_price>2125000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Стиль, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/0/full.webp?v=bfc06dca0dae</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/1/full.webp?v=9a13c8e4a514</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/2/full.webp?v=87ab3df84e20</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/3/full.webp?v=96be60f80438</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/4/full.webp?v=0275cf05efbe</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/5/full.webp?v=89a2b55b002d</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/6/full.webp?v=8664afcabb55</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/7/full.webp?v=2e8341de2f80</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/8/full.webp?v=9aa115aa42d9</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/9/full.webp?v=8080f6dcf4f9</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C251BBSR188858</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-comfort-silver-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C251BBSR188858</vin>
-      <price>2535000</price>
-      <sale_price>2065000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>серебряный</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR188858/0/full.webp?v=dcbbecea6da6</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C251BBSR194468</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-luxe-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C251BBSR194468</vin>
-      <price>2725000</price>
-      <sale_price>2255000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR194468/0/full.webp?v=c3f9e678f698</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR194468/1/full.webp?v=d90b3a6bb002</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR194468/2/full.webp?v=c3f2605d1092</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR194468/3/full.webp?v=938f89ac9f9e</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C251BBSR194478</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-luxe-silver-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C251BBSR194478</vin>
-      <price>2725000</price>
-      <sale_price>2255000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>серебряный</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR194478/0/full.webp?v=29a5b1abf36f</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR194478/1/full.webp?v=4af7c3f0e63b</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR194478/2/full.webp?v=e5e4b282cf0d</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR194478/3/full.webp?v=137669d4fd2f</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR194478/4/full.webp?v=34d4d13c580f</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR194478/5/full.webp?v=cb0b4a345f6a</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C251BBSR196352</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-luxe-silver-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C251BBSR196352</vin>
-      <price>2650000</price>
-      <sale_price>2180000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>серебряный</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196352/0/full.webp?v=857413cf0213</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196352/1/full.webp?v=de753fe3f121</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196352/2/full.webp?v=6003ec991023</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196352/3/full.webp?v=747423cfc4a2</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196352/4/full.webp?v=b2cd34fdd9ae</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196352/5/full.webp?v=eebcfafc03f3</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196352/6/full.webp?v=7c584fa6d787</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C251BBSR196353</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-luxe-silver-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C251BBSR196353</vin>
-      <price>2650000</price>
-      <sale_price>2180000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>серебряный</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196353/0/full.webp?v=d5c296f08978</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196353/1/full.webp?v=199e5deecd6c</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196353/2/full.webp?v=437051f750e9</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196353/3/full.webp?v=14d5a9341e1a</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196353/4/full.webp?v=1fde832a068b</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C251BBSR196510</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-comfort-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C251BBSR196510</vin>
-      <price>2535000</price>
-      <sale_price>2065000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196510/0/full.webp?v=76369e8ca050</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C251BBSR196530</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-comfort-blue-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C251BBSR196530</vin>
-      <price>2535000</price>
-      <sale_price>2065000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>синий</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г., синий</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196530/0/full.webp?v=653b72f18b8b</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C251BBSR196539</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-comfort-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C251BBSR196539</vin>
-      <price>2535000</price>
-      <sale_price>2065000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196539/0/full.webp?v=97092ed1826f</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C251BBSR198534</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-luxe-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C251BBSR198534</vin>
-      <price>2725000</price>
-      <sale_price>2205000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>520000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Luxe, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR198534/0/full.webp?v=0909cc60f928</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR198534/1/full.webp?v=594aa0be0766</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR198534/2/full.webp?v=ab908c326cb5</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR198534/3/full.webp?v=83e33ae5519a</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR198534/4/full.webp?v=6093502465a7</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR198534/5/full.webp?v=d97bcdb6f55e</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C251BBSR199110</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-comfort-black-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C251BBSR199110</vin>
-      <price>2535000</price>
-      <sale_price>2065000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Комфорт, 1.6 AT (123 л.с.), 2025 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR199110/0/full.webp?v=378904ef1a48</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C341BBSR275769</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-premium-blue-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C341BBSR275769</vin>
-      <price>2870000</price>
-      <sale_price>2360000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>синий</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Премиум, 1.6 AT (123 л.с.), 2025 г., синий</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275769/0/full.webp?v=db25859a2a6c</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275769/1/full.webp?v=6fd633de65cf</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275769/2/full.webp?v=a089f30c0a71</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275769/3/full.webp?v=7ef5ba6fbd43</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275769/4/full.webp?v=07097e5196a5</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275769/5/full.webp?v=a91af7c204b4</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C341BBSR275829</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-premium-red-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C341BBSR275829</vin>
-      <price>2870000</price>
-      <sale_price>2360000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>красный</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Премиум, 1.6 AT (123 л.с.), 2025 г., красный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275829/0/full.webp?v=ed721a4237b8</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275829/1/full.webp?v=bf7608588a3f</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275829/2/full.webp?v=188aba032294</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275829/3/full.webp?v=cbab63804669</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275829/4/full.webp?v=a391eb9eebe0</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275829/5/full.webp?v=579b2712c63d</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C341BBSR275849</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-premium-gray-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRS</folder_id>
-      <year>2025</year>
-      <vin>Z94C341BBSR275849</vin>
-      <price>2870000</price>
-      <sale_price>2360000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>510000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Седан</body_type>
-      <description>Автомобиль Solaris KRS, Премиум, 1.6 AT (123 л.с.), 2025 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275849/0/full.webp?v=4cf870bf0428</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275849/1/full.webp?v=e7f4be9b29ba</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275849/2/full.webp?v=61d377db0fc8</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275849/3/full.webp?v=e81cbc1a044b</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C351BBSR194434</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-premium-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C351BBSR194434</vin>
-      <price>2960000</price>
-      <sale_price>2490000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194434/0/full.webp?v=58da01d12622</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C351BBSR194435</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-premium-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C351BBSR194435</vin>
-      <price>2960000</price>
-      <sale_price>2490000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194435/0/full.webp?v=90a8198c88c6</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C351BBSR194436</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-premium-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C351BBSR194436</vin>
-      <price>2960000</price>
-      <sale_price>2490000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194436/0/full.webp?v=f2f82b48a0c9</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C351BBSR194493</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-premium-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C351BBSR194493</vin>
-      <price>2960000</price>
-      <sale_price>2490000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194493/0/full.webp?v=a23467776d7e</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C351BBSR194494</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-premium-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C351BBSR194494</vin>
-      <price>2960000</price>
-      <sale_price>2490000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194494/0/full.webp?v=1b7068ba0091</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C351BBSR195187</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-prestige-gray-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C351BBSR195187</vin>
-      <price>2815000</price>
-      <sale_price>2345000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Престиж, 1.6 AT (123 л.с.), 2025 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR195187/0/full.webp?v=6d05bfc608b2</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C351BBSR195211</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-prestige-gray-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C351BBSR195211</vin>
-      <price>2815000</price>
-      <sale_price>2345000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Престиж, 1.6 AT (123 л.с.), 2025 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR195211/0/full.webp?v=4ba835c5cbe3</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C351BBSR196368</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-prestige-gray-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C351BBSR196368</vin>
-      <price>2815000</price>
-      <sale_price>2345000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Престиж, 1.6 AT (123 л.с.), 2025 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR196368/0/full.webp?v=2e1731bdaaf4</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C351BBSR196369</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-prestige-gray-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C351BBSR196369</vin>
-      <price>2815000</price>
-      <sale_price>2345000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Престиж, 1.6 AT (123 л.с.), 2025 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR196369/0/full.webp?v=b9d9f98db4de</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94C351BBSR197775</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krx-16-at-123-hp-premium-brown-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>KRX</folder_id>
-      <year>2025</year>
-      <vin>Z94C351BBSR197775</vin>
-      <price>2960000</price>
-      <sale_price>2490000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>470000</max_benefit>
-      <color>коричневый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Solaris KRX, Премиум, 1.6 AT (123 л.с.), 2025 г., коричневый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR197775/0/full.webp?v=aa95f9e003b6</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PB814BSR066381</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-16-at-123-hp-classic-gray-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PB814BSR066381</vin>
-      <price>2795000</price>
-      <sale_price>2475000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>320000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Классик, 1.6 AT (123 л.с.), 2025 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PB814BSR066381/0/full.webp?v=6606e196a0fb</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PB814BSR068563</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-16-at-123-hp-classic-pluswinter-black-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PB814BSR068563</vin>
-      <price>2865000</price>
-      <sale_price>2545000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>320000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Classic+Winter, 1.6 AT (123 л.с.), 2025 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PB814BSR068563/0/full.webp?v=4d6bc7b77974</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PB814BSR068563/1/full.webp?v=6ec1652aa1c6</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PB814BSR068563/2/full.webp?v=29f2a46529e5</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PB814BSR068563/3/full.webp?v=7f7ea898c36d</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PB814BSR068563/4/full.webp?v=e890cfa2a4ab</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PB814BSR068563/5/full.webp?v=74c89081c6c0</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PB814BSR068563/6/full.webp?v=a054ac45cd62</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PC815BSR072295</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-at-150-hp-lifestyle--plus-winter-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PC815BSR072295</vin>
-      <price>3360000</price>
-      <sale_price>3040000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>320000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Lifestyle + Winter, 2.0 AT (150 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815BSR072295/0/full.webp?v=c72be9542488</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815BSR072295/1/full.webp?v=56ac89e0345c</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815BSR072295/2/full.webp?v=7c5e6329c6cd</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815BSR072295/3/full.webp?v=cb45256be151</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815BSR072295/4/full.webp?v=ef9fe53f1ffb</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815BSR072295/5/full.webp?v=c8ec503d63c4</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PC815DSR056149</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-4wd-at-150-hp-lifestyle-black-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PC815DSR056149</vin>
-      <price>3425000</price>
-      <sale_price>3055000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>370000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Лайфстайл, 2.0 4WD AT (150 л.с.), 2025 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR056149/0/full.webp?v=821dddb3b2a4</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PC815DSR061125</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-4wd-at-150-hp-lifestyle--plus-winter-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PC815DSR061125</vin>
-      <price>3575000</price>
-      <sale_price>3205000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>370000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Lifestyle + Winter, 2.0 4WD AT (150 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR061125/0/full.webp?v=1fb29e5f8e34</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR061125/1/full.webp?v=54f6c1af7819</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR061125/2/full.webp?v=ef06dc6ec85f</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR061125/3/full.webp?v=46f882845e48</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR061125/4/full.webp?v=29fc11f285b1</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR061125/5/full.webp?v=bd4b88933418</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PC815DSR064702</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-4wd-at-150-hp-lifestyle--plus-winter-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PC815DSR064702</vin>
-      <price>3495000</price>
-      <sale_price>3125000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>370000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Lifestyle + Winter, 2.0 4WD AT (150 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR064702/0/full.webp?v=f1d236022ee7</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR064702/1/full.webp?v=6a35f1a383e3</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR064702/2/full.webp?v=56cf73c1a5d8</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR064702/3/full.webp?v=4b0471d2ede4</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PC815DSR066835</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-4wd-at-150-hp-lifestyle--plus-winter-blue-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PC815DSR066835</vin>
-      <price>3495000</price>
-      <sale_price>3175000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>320000</max_benefit>
-      <color>синий</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Lifestyle + Winter, 2.0 4WD AT (150 л.с.), 2025 г., синий</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR066835/0/full.webp?v=15d777aeaa45</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR066835/1/full.webp?v=d25498093458</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR066835/2/full.webp?v=045aad35273b</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR066835/3/full.webp?v=0ffae1bc8da6</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR066835/4/full.webp?v=90216b012f44</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR066835/5/full.webp?v=4ca92d35be8f</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR066835/6/full.webp?v=f82c901b3c54</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PC815DSR068734</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-4wd-at-150-hp-lifestyle--plus-premium-music--plus-winter--plus-advanced-beige-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PC815DSR068734</vin>
-      <price>3640000</price>
-      <sale_price>3640000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>0</max_benefit>
-      <color>бежевый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Lifestyle + Premium Music + Winter + Advanced, 2.0 4WD AT (150 л.с.), 2025 г., бежевый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR068734/0/full.webp?v=a467e56572ef</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR068734/1/full.webp?v=b4b9f6ac75d2</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR068734/2/full.webp?v=d105c566c15b</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR068734/3/full.webp?v=2e14463d8f76</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR068734/4/full.webp?v=fcb5f8786904</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PC815DSR071099</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-4wd-at-150-hp-lifestyle-black-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PC815DSR071099</vin>
-      <price>3425000</price>
-      <sale_price>3105000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>320000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Лайфстайл, 2.0 4WD AT (150 л.с.), 2025 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR071099/0/full.webp?v=ac0e4e801977</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PF814BSR054997</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-16-at-123-hp-family-plusultra-silver-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PF814BSR054997</vin>
-      <price>2960000</price>
-      <sale_price>2714000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>246000</max_benefit>
-      <color>серебряный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Family+Ultra, 1.6 AT (123 л.с.), 2025 г., серебряный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR054997/0/full.webp?v=6c7943d090dd</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR054997/1/full.webp?v=861ff0fcaeb5</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR054997/2/full.webp?v=6552a365715e</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR054997/3/full.webp?v=aa013112cacc</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR054997/4/full.webp?v=d67cfac54ca4</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PF814BSR055158</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-16-at-123-hp-family-plusultra-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PF814BSR055158</vin>
-      <price>3040000</price>
-      <sale_price>2720000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>320000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Family+Ultra, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR055158/0/full.webp?v=4ca6ec30e7f7</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR055158/1/full.webp?v=bb1dffbdb058</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR055158/2/full.webp?v=010445517c30</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR055158/3/full.webp?v=5b2970ad49a0</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR055158/4/full.webp?v=bdc8f0612d6d</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR055158/5/full.webp?v=91535a4b26f6</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR055158/6/full.webp?v=977a02e36e18</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PF814BSR066985</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-16-at-123-hp-family-plusultra-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PF814BSR066985</vin>
-      <price>3040000</price>
-      <sale_price>2830000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>210000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Family+Ultra, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR066985/0/full.webp?v=0d4a72a97073</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR066985/1/full.webp?v=cc815af20eb5</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR066985/2/full.webp?v=b09c84bed447</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR066985/3/full.webp?v=eb1dd2a8bed0</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR066985/4/full.webp?v=1c0806f2071b</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR066985/5/full.webp?v=3d06a42fee5c</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR066985/6/full.webp?v=6080f055f732</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PF814BSR070368</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-16-at-123-hp-family-plusultra-white-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PF814BSR070368</vin>
-      <price>3040000</price>
-      <sale_price>2830000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>210000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Family+Ultra, 1.6 AT (123 л.с.), 2025 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR070368/0/full.webp?v=4c8dae6d460c</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR070368/1/full.webp?v=b58547fe13fe</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR070368/2/full.webp?v=d8616c0801a5</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR070368/3/full.webp?v=e3025ef90657</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR070368/4/full.webp?v=ac8bc4516f06</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR070368/5/full.webp?v=cd6240320b41</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR070368/6/full.webp?v=c5fcc5394640</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PF815BSR065756</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-at-150-hp-family--plus-ultra-black-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PF815BSR065756</vin>
-      <price>3175000</price>
-      <sale_price>2855000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>320000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Family + Ultra, 2.0 AT (150 л.с.), 2025 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR065756/0/full.webp?v=f4ff92a22d6d</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR065756/1/full.webp?v=a67862762522</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR065756/2/full.webp?v=18f6eacc3a40</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR065756/3/full.webp?v=175dcec97871</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR065756/4/full.webp?v=6fd99115149e</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR065756/5/full.webp?v=799e9ec0427e</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR065756/6/full.webp?v=1ae47930c819</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR065756/7/full.webp?v=901468a69445</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR065756/8/full.webp?v=98028d491e36</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PF815BSR067889</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-at-150-hp-family-black-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PF815BSR067889</vin>
-      <price>3105000</price>
-      <sale_price>2785000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>320000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Фэмили, 2.0 AT (150 л.с.), 2025 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR067889/0/full.webp?v=2064ba9048a1</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Z94PF815BSR067962</unique_id>
-      <url>https://sales-autoholding-turgenevskiy.ru/cars/solaris-hc-20-at-150-hp-family--plus-ultra-gray-2025/</url>
-      <mark_id>Solaris</mark_id>
-      <folder_id>HC</folder_id>
-      <year>2025</year>
-      <vin>Z94PF815BSR067962</vin>
-      <price>3175000</price>
-      <sale_price>2965000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>210000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Solaris HC, Family + Ultra, 2.0 AT (150 л.с.), 2025 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR067962/0/full.webp?v=94c253475000</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR067962/1/full.webp?v=2df07d827384</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR067962/2/full.webp?v=bf2691c27e4e</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR067962/3/full.webp?v=f0883f1edf6d</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR067962/4/full.webp?v=896d86fb3d9c</image>
-        <image>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR067962/5/full.webp?v=d17767705106</image>
       </images>
     </car>
   </cars>
