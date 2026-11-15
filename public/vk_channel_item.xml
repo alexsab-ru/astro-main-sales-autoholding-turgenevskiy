@@ -2,558 +2,6 @@
 <channel>
   <title>Автомобили</title>
   <item>
-    <id>EC37CUSMXSC003645</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-x70-plus-16t-dct-190-hp-comfort-white-2026/</link>
-    <brand>Jetour</brand>
-    <model>X70 Plus</model>
-    <year>2026</year>
-    <title>Jetour X70 Plus Comfort 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37CUSMXSC003645/0/full.webp?v=76070e4aee88</image_link>
-    <price>3099000 RUB</price>
-    <sale_price>2499000 RUB</sale_price>
-    <min_price>2499000 RUB</min_price>
-    <max_price>3099000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour X70 Plus, Comfort, 1.6T DCT (190 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC37CUSMXSC003645</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC37LUSM2SC003428</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-x70-plus-16t-dct-190-hp-prestige-white-2025/</link>
-    <brand>Jetour</brand>
-    <model>X70 Plus</model>
-    <year>2025</year>
-    <title>Jetour X70 Plus Престиж 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSM2SC003428/0/full.webp?v=a77263f6512b</image_link>
-    <price>3299900 RUB</price>
-    <sale_price>2789900 RUB</sale_price>
-    <min_price>2789900 RUB</min_price>
-    <max_price>3299900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour X70 Plus, Престиж, 1.6T DCT (190 л.с.), 2025 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC37LUSM2SC003428</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC37LUSMXSC003872</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-x70-plus-16t-dct-190-hp-prestige-black-2025/</link>
-    <brand>Jetour</brand>
-    <model>X70 Plus</model>
-    <year>2025</year>
-    <title>Jetour X70 Plus Престиж 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC003872/0/full.webp?v=0ec09bbf78ea</image_link>
-    <price>3299900 RUB</price>
-    <sale_price>2789900 RUB</sale_price>
-    <min_price>2789900 RUB</min_price>
-    <max_price>3299900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour X70 Plus, Престиж, 1.6T DCT (190 л.с.), 2025 г.</description>
-    <exterior_color>Чёрный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC37LUSMXSC003872</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC37LUSMXSC004102</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-x70-plus-16t-dct-190-hp-prestige-white-2026/</link>
-    <brand>Jetour</brand>
-    <model>X70 Plus</model>
-    <year>2026</year>
-    <title>Jetour X70 Plus Престиж 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC37LUSMXSC004102/0/full.webp?v=8b1b62a2d1ef</image_link>
-    <price>3399000 RUB</price>
-    <sale_price>2689000 RUB</sale_price>
-    <min_price>2689000 RUB</min_price>
-    <max_price>3399000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour X70 Plus, Престиж, 1.6T DCT (190 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC37LUSMXSC004102</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DCUFD9SC008803</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-comfort-white-2026/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2026</year>
-    <title>Jetour Dashing Комфорт 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFD9SC008803/0/full.webp?v=901f29bede3a</image_link>
-    <price>2759900 RUB</price>
-    <sale_price>2209900 RUB</sale_price>
-    <min_price>2209900 RUB</min_price>
-    <max_price>2759900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Комфорт, 1.5 DCT (147 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DCUFD9SC008803</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DCUFDXSC008664</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-comfort-green-2026/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2026</year>
-    <title>Jetour Dashing Комфорт 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008664/0/full.webp?v=0fea27500faa</image_link>
-    <price>2759900 RUB</price>
-    <sale_price>2209900 RUB</sale_price>
-    <min_price>2209900 RUB</min_price>
-    <max_price>2759900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Комфорт, 1.5 DCT (147 л.с.), 2026 г.</description>
-    <exterior_color>Зелёный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DCUFDXSC008664</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DCUFDXSC008700</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-comfort-green-2026/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2026</year>
-    <title>Jetour Dashing Комфорт 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008700/0/full.webp?v=0e6e044dc211</image_link>
-    <price>2759900 RUB</price>
-    <sale_price>2209900 RUB</sale_price>
-    <min_price>2209900 RUB</min_price>
-    <max_price>2759900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Комфорт, 1.5 DCT (147 л.с.), 2026 г.</description>
-    <exterior_color>Зелёный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DCUFDXSC008700</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DCUFDXSC008714</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-comfort-green-2026/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2026</year>
-    <title>Jetour Dashing Комфорт 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008714/0/full.webp?v=bb36f50d29a8</image_link>
-    <price>2759900 RUB</price>
-    <sale_price>2209900 RUB</sale_price>
-    <min_price>2209900 RUB</min_price>
-    <max_price>2759900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Комфорт, 1.5 DCT (147 л.с.), 2026 г.</description>
-    <exterior_color>Зелёный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DCUFDXSC008714</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DCUFDXSC008731</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-comfort-green-2026/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2026</year>
-    <title>Jetour Dashing Комфорт 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXSC008731/0/full.webp?v=9c5eb2ba189b</image_link>
-    <price>2759900 RUB</price>
-    <sale_price>2209900 RUB</sale_price>
-    <min_price>2209900 RUB</min_price>
-    <max_price>2759900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Комфорт, 1.5 DCT (147 л.с.), 2026 г.</description>
-    <exterior_color>Зелёный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DCUFDXSC008731</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DCUFDXTC011100</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-comfort-black-2026/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2026</year>
-    <title>Jetour Dashing Комфорт 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011100/0/full.webp?v=5d7bc2aec9d1</image_link>
-    <price>2759900 RUB</price>
-    <sale_price>2209900 RUB</sale_price>
-    <min_price>2209900 RUB</min_price>
-    <max_price>2759900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Комфорт, 1.5 DCT (147 л.с.), 2026 г.</description>
-    <exterior_color>Чёрный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DCUFDXTC011100</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DCUFDXTC011128</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-comfort-black-2026/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2026</year>
-    <title>Jetour Dashing Комфорт 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011128/0/full.webp?v=8abdbda10ff0</image_link>
-    <price>2759900 RUB</price>
-    <sale_price>2209900 RUB</sale_price>
-    <min_price>2209900 RUB</min_price>
-    <max_price>2759900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Комфорт, 1.5 DCT (147 л.с.), 2026 г.</description>
-    <exterior_color>Чёрный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DCUFDXTC011128</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DCUFDXTC011534</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-comfort-white-2026/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2026</year>
-    <title>Jetour Dashing Комфорт 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DCUFDXTC011534/0/full.webp?v=d2ffec81272f</image_link>
-    <price>2759900 RUB</price>
-    <sale_price>2209900 RUB</sale_price>
-    <min_price>2209900 RUB</min_price>
-    <max_price>2759900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Комфорт, 1.5 DCT (147 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DCUFDXTC011534</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DEUFD6SC004086</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-luxury-black-2025/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2025</year>
-    <title>Jetour Dashing Люкс 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004086/0/full.webp?v=e1433a66ccb4</image_link>
-    <price>2839900 RUB</price>
-    <sale_price>2239900 RUB</sale_price>
-    <min_price>2239900 RUB</min_price>
-    <max_price>2839900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Люкс, 1.5 DCT (147 л.с.), 2025 г.</description>
-    <exterior_color>Чёрный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DEUFD6SC004086</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DEUFD6SC004671</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-luxury-black-2025/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2025</year>
-    <title>Jetour Dashing Люкс 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC004671/0/full.webp?v=6b33bf39bc0e</image_link>
-    <price>2839900 RUB</price>
-    <sale_price>2239900 RUB</sale_price>
-    <min_price>2239900 RUB</min_price>
-    <max_price>2839900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Люкс, 1.5 DCT (147 л.с.), 2025 г.</description>
-    <exterior_color>Чёрный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DEUFD6SC004671</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DEUFD6SC005920</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-luxury-black-2025/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2025</year>
-    <title>Jetour Dashing Люкс 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFD6SC005920/0/full.webp?v=db7c996b48a6</image_link>
-    <price>2839900 RUB</price>
-    <sale_price>2239900 RUB</sale_price>
-    <min_price>2239900 RUB</min_price>
-    <max_price>2839900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Люкс, 1.5 DCT (147 л.с.), 2025 г.</description>
-    <exterior_color>Чёрный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DEUFD6SC005920</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DEUFDXSC006004</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-luxury-black-2025/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2025</year>
-    <title>Jetour Dashing Люкс 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFDXSC006004/0/full.webp?v=b83fc861afb4</image_link>
-    <price>2839900 RUB</price>
-    <sale_price>2239900 RUB</sale_price>
-    <min_price>2239900 RUB</min_price>
-    <max_price>2839900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Люкс, 1.5 DCT (147 л.с.), 2025 г.</description>
-    <exterior_color>Чёрный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DEUFDXSC006004</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DEUFDXSC007301</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-luxury-white-2025/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2025</year>
-    <title>Jetour Dashing Люкс 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DEUFDXSC007301/0/full.webp?v=a729e9478c75</image_link>
-    <price>2839900 RUB</price>
-    <sale_price>2239900 RUB</sale_price>
-    <min_price>2239900 RUB</min_price>
-    <max_price>2839900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Люкс, 1.5 DCT (147 л.с.), 2025 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DEUFDXSC007301</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DLUFDXTC012697</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-dashing-15-dct-147-hp-prestige-white-2026/</link>
-    <brand>Jetour</brand>
-    <model>Dashing</model>
-    <year>2026</year>
-    <title>Jetour Dashing Престиж 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/EC3DLUFDXTC012697/0/full.webp?v=09ae000127a7</image_link>
-    <price>3029900 RUB</price>
-    <sale_price>2589900 RUB</sale_price>
-    <min_price>2589900 RUB</min_price>
-    <max_price>3029900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, Престиж, 1.5 DCT (147 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EC3DLUFDXTC012697</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LVTDD24B1TDB97904</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-t1-20-4wd-at-245-hp-premium-black-2026/</link>
-    <brand>Jetour</brand>
-    <model>T1</model>
-    <year>2026</year>
-    <title>Jetour T1 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B1TDB97904/0/full.webp?v=2b94638c3c56</image_link>
-    <price>4199900 RUB</price>
-    <sale_price>3924900 RUB</sale_price>
-    <min_price>3924900 RUB</min_price>
-    <max_price>4199900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour T1, Премиум, 2.0 4WD AT (245 л.с.), 2026 г.</description>
-    <exterior_color>Чёрный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LVTDD24B1TDB97904</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LVTDD24B2TDB70050</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-t1-20-4wd-at-245-hp-premium-white-2026/</link>
-    <brand>Jetour</brand>
-    <model>T1</model>
-    <year>2026</year>
-    <title>Jetour T1 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB70050/0/full.webp?v=bb2fc73058b9</image_link>
-    <price>4199900 RUB</price>
-    <sale_price>4099900 RUB</sale_price>
-    <min_price>4099900 RUB</min_price>
-    <max_price>4199900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour T1, Премиум, 2.0 4WD AT (245 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LVTDD24B2TDB70050</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LVTDD24B2TDB77998</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-t1-20-4wd-at-245-hp-premium-black-2026/</link>
-    <brand>Jetour</brand>
-    <model>T1</model>
-    <year>2026</year>
-    <title>Jetour T1 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B2TDB77998/0/full.webp?v=2bd664a0c4d1</image_link>
-    <price>4199900 RUB</price>
-    <sale_price>4099900 RUB</sale_price>
-    <min_price>4099900 RUB</min_price>
-    <max_price>4199900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour T1, Премиум, 2.0 4WD AT (245 л.с.), 2026 г.</description>
-    <exterior_color>Чёрный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LVTDD24B2TDB77998</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LVTDD24B5TDB77929</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-t1-20-4wd-at-245-hp-premium-black-2026/</link>
-    <brand>Jetour</brand>
-    <model>T1</model>
-    <year>2026</year>
-    <title>Jetour T1 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B5TDB77929/0/full.webp?v=710120e2be9b</image_link>
-    <price>4199900 RUB</price>
-    <sale_price>3924900 RUB</sale_price>
-    <min_price>3924900 RUB</min_price>
-    <max_price>4199900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour T1, Премиум, 2.0 4WD AT (245 л.с.), 2026 г.</description>
-    <exterior_color>Чёрный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LVTDD24B5TDB77929</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LVTDD24B7TDB86700</id>
-    <link>https://sales-autoholding-turgenevskiy.ru/cars/jetour-t1-20-4wd-at-245-hp-premium-black-2026/</link>
-    <brand>Jetour</brand>
-    <model>T1</model>
-    <year>2026</year>
-    <title>Jetour T1 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/LVTDD24B7TDB86700/0/full.webp?v=42976bec84e9</image_link>
-    <price>4199900 RUB</price>
-    <sale_price>3924900 RUB</sale_price>
-    <min_price>3924900 RUB</min_price>
-    <max_price>4199900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour T1, Премиум, 2.0 4WD AT (245 л.с.), 2026 г.</description>
-    <exterior_color>Чёрный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LVTDD24B7TDB86700</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>Z94C241BBSR270969</id>
     <link>https://sales-autoholding-turgenevskiy.ru/cars/solaris-krs-16-at-123-hp-style-brown-2025/</link>
     <brand>Solaris</brand>
@@ -608,7 +56,7 @@
     <model>KRS</model>
     <year>2025</year>
     <title>Solaris KRS Люкс АВ 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274322/0/full.webp?v=ce53351008c9</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR274322/0/full.webp?v=413d7324f991</image_link>
     <price>2560000 RUB</price>
     <sale_price>2050000 RUB</sale_price>
     <min_price>2050000 RUB</min_price>
@@ -656,7 +104,7 @@
     <model>KRS</model>
     <year>2025</year>
     <title>Solaris KRS Стиль 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275280/0/full.webp?v=a333df48fd7b</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275280/0/full.webp?v=d1d443dd27fa</image_link>
     <price>2635000 RUB</price>
     <sale_price>2125000 RUB</sale_price>
     <min_price>2125000 RUB</min_price>
@@ -800,7 +248,7 @@
     <model>KRS</model>
     <year>2025</year>
     <title>Solaris KRS Стиль 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/0/full.webp?v=24bced1da079</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C241BBSR275839/0/full.webp?v=bfc06dca0dae</image_link>
     <price>2635000 RUB</price>
     <sale_price>2125000 RUB</sale_price>
     <min_price>2125000 RUB</min_price>
@@ -824,7 +272,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Комфорт 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR188858/0/full.webp?v=68abe75183c3</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR188858/0/full.webp?v=0a392ed2ebed</image_link>
     <price>2535000 RUB</price>
     <sale_price>2065000 RUB</sale_price>
     <min_price>2065000 RUB</min_price>
@@ -893,7 +341,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Luxe 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196352/0/full.webp?v=857413cf0213</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196352/0/full.webp?v=85675e420f20</image_link>
     <price>2650000 RUB</price>
     <sale_price>2180000 RUB</sale_price>
     <min_price>2180000 RUB</min_price>
@@ -939,7 +387,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Комфорт 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196510/0/full.webp?v=70e4111d23b0</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196510/0/full.webp?v=b3b19bd1b72c</image_link>
     <price>2535000 RUB</price>
     <sale_price>2065000 RUB</sale_price>
     <min_price>2065000 RUB</min_price>
@@ -962,7 +410,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Комфорт 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196530/0/full.webp?v=e979d186e762</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196530/0/full.webp?v=0b4e833bc367</image_link>
     <price>2535000 RUB</price>
     <sale_price>2065000 RUB</sale_price>
     <min_price>2065000 RUB</min_price>
@@ -985,7 +433,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Комфорт 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196539/0/full.webp?v=6fb965dccf89</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR196539/0/full.webp?v=88447816cc02</image_link>
     <price>2535000 RUB</price>
     <sale_price>2065000 RUB</sale_price>
     <min_price>2065000 RUB</min_price>
@@ -1008,7 +456,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Luxe 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR198534/0/full.webp?v=0909cc60f928</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR198534/0/full.webp?v=287ba20ccfb2</image_link>
     <price>2725000 RUB</price>
     <sale_price>2205000 RUB</sale_price>
     <min_price>2205000 RUB</min_price>
@@ -1031,7 +479,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Комфорт 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR199110/0/full.webp?v=e11f1c284332</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C251BBSR199110/0/full.webp?v=be740320536e</image_link>
     <price>2535000 RUB</price>
     <sale_price>2065000 RUB</sale_price>
     <min_price>2065000 RUB</min_price>
@@ -1054,7 +502,7 @@
     <model>KRS</model>
     <year>2025</year>
     <title>Solaris KRS Премиум 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275769/0/full.webp?v=bf8ed3f8b2c6</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C341BBSR275769/0/full.webp?v=db25859a2a6c</image_link>
     <price>2870000 RUB</price>
     <sale_price>2360000 RUB</sale_price>
     <min_price>2360000 RUB</min_price>
@@ -1126,7 +574,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Премиум 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194434/0/full.webp?v=dcea48d757cc</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194434/0/full.webp?v=fda32f769b25</image_link>
     <price>2960000 RUB</price>
     <sale_price>2490000 RUB</sale_price>
     <min_price>2490000 RUB</min_price>
@@ -1149,7 +597,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Премиум 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194435/0/full.webp?v=15eaf1246390</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194435/0/full.webp?v=d17e4238b349</image_link>
     <price>2960000 RUB</price>
     <sale_price>2490000 RUB</sale_price>
     <min_price>2490000 RUB</min_price>
@@ -1172,7 +620,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Премиум 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194436/0/full.webp?v=c77dae3c364b</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194436/0/full.webp?v=81f0ad9d056c</image_link>
     <price>2960000 RUB</price>
     <sale_price>2490000 RUB</sale_price>
     <min_price>2490000 RUB</min_price>
@@ -1195,7 +643,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Премиум 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194493/0/full.webp?v=cc660623c271</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194493/0/full.webp?v=8748d815c72d</image_link>
     <price>2960000 RUB</price>
     <sale_price>2490000 RUB</sale_price>
     <min_price>2490000 RUB</min_price>
@@ -1218,7 +666,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Премиум 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194494/0/full.webp?v=ccf8203566a2</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR194494/0/full.webp?v=86cebbd33ecd</image_link>
     <price>2960000 RUB</price>
     <sale_price>2490000 RUB</sale_price>
     <min_price>2490000 RUB</min_price>
@@ -1241,7 +689,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Престиж 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR195187/0/full.webp?v=df5fbb158bed</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR195187/0/full.webp?v=798d036d8205</image_link>
     <price>2815000 RUB</price>
     <sale_price>2345000 RUB</sale_price>
     <min_price>2345000 RUB</min_price>
@@ -1264,7 +712,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Престиж 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR195211/0/full.webp?v=8610a3b3b52c</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR195211/0/full.webp?v=755626fb67d1</image_link>
     <price>2815000 RUB</price>
     <sale_price>2345000 RUB</sale_price>
     <min_price>2345000 RUB</min_price>
@@ -1287,7 +735,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Престиж 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR196368/0/full.webp?v=26bc9bd565f5</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR196368/0/full.webp?v=a8ca4b6bdb2f</image_link>
     <price>2815000 RUB</price>
     <sale_price>2345000 RUB</sale_price>
     <min_price>2345000 RUB</min_price>
@@ -1310,7 +758,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Престиж 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR196369/0/full.webp?v=82f84266d5ec</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR196369/0/full.webp?v=90932f7cc656</image_link>
     <price>2815000 RUB</price>
     <sale_price>2345000 RUB</sale_price>
     <min_price>2345000 RUB</min_price>
@@ -1333,7 +781,7 @@
     <model>KRX</model>
     <year>2025</year>
     <title>Solaris KRX Премиум 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR197775/0/full.webp?v=2bd3f245046e</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94C351BBSR197775/0/full.webp?v=3be26db1b82f</image_link>
     <price>2960000 RUB</price>
     <sale_price>2490000 RUB</sale_price>
     <min_price>2490000 RUB</min_price>
@@ -1356,7 +804,7 @@
     <model>HC</model>
     <year>2025</year>
     <title>Solaris HC Классик 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PB814BSR066381/0/full.webp?v=39c802096f10</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PB814BSR066381/0/full.webp?v=73dc14b4e013</image_link>
     <price>2795000 RUB</price>
     <sale_price>2475000 RUB</sale_price>
     <min_price>2475000 RUB</min_price>
@@ -1428,7 +876,7 @@
     <model>HC</model>
     <year>2025</year>
     <title>Solaris HC Лайфстайл 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR056149/0/full.webp?v=922c423c2100</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR056149/0/full.webp?v=f47ee1f17d0f</image_link>
     <price>3425000 RUB</price>
     <sale_price>3055000 RUB</sale_price>
     <min_price>3055000 RUB</min_price>
@@ -1548,7 +996,7 @@
     <model>HC</model>
     <year>2025</year>
     <title>Solaris HC Лайфстайл 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR071099/0/full.webp?v=ab90de16f503</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PC815DSR071099/0/full.webp?v=d4fc71968ea6</image_link>
     <price>3425000 RUB</price>
     <sale_price>3105000 RUB</sale_price>
     <min_price>3105000 RUB</min_price>
@@ -1596,7 +1044,7 @@
     <model>HC</model>
     <year>2025</year>
     <title>Solaris HC Family+Ultra 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR055158/0/full.webp?v=6a1496a95695</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF814BSR055158/0/full.webp?v=4ca6ec30e7f7</image_link>
     <price>3040000 RUB</price>
     <sale_price>2720000 RUB</sale_price>
     <min_price>2720000 RUB</min_price>
@@ -1692,7 +1140,7 @@
     <model>HC</model>
     <year>2025</year>
     <title>Solaris HC Фэмили 2025</title>
-    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR067889/0/full.webp?v=d6dd64fcbcd8</image_link>
+    <image_link>https://img.upspace.ru/cars/sales-autoholding-turgenevskiy.ru/new/Z94PF815BSR067889/0/full.webp?v=e309c4b6acce</image_link>
     <price>3105000 RUB</price>
     <sale_price>2785000 RUB</sale_price>
     <min_price>2785000 RUB</min_price>
